@@ -15,3 +15,5 @@ Yaptığımız bir commit işleminin mesajını nasıl değiştirebiliriz?
 2 - Branch İşlemleri ve Stash Kavramı
 
 3 - Merge ve Rebase Farkları. Conflit ile Başa Çıkmak
+
+![alt text](https://github.com/Olcaytp/Ileri-Seviye-Git-Kullanimi/blob/master/Capture.2PNG.PNG)
